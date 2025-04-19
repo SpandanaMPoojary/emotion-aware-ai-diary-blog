@@ -56,12 +56,3 @@ _Future Improvements_:
 The Emotion-Aware AI Diary represents a step forward in using artificial intelligence for emotional well-being. By providing instant summaries, detecting emotions, and offering helpful coping strategies, it offers a fresh way to engage with one's personal feelings. This project has the potential to enhance mental health, mindfulness, and personal development for individuals worldwide.
 
 
-
-How to Set It Up:
-
-If you'd like to set up the project and try it yourself, follow these steps:
-1. Install Dependencies:
-    - Install Python and necessary libraries (e.g., openai, google-generativeai).
-    - Set up your API keys for Google and OpenAI.
-2. Run the Code:
-    - Use the code provided in the repository to test the system.
